@@ -1,0 +1,19 @@
+{
+  "ignore": [
+    "uploads/ad-groups/sp-report/*",
+    "uploads/ad-groups/sd-report/*",
+    "uploads/ad-groups/sb-report/*",
+    "uploads/campaigns/sp-report/*",
+    "uploads/campaigns/sb-report/*",
+    "uploads/campaigns/sd-report/*",
+    "uploads/keywords/sp-report/*",
+    "uploads/keywords/sb-report/*",
+    "uploads/keywords/sd-report/*",
+    "uploads/productAds/sp-report/*",
+    "uploads/productAds/sb-report/*",
+    "uploads/productAds/sd-report/*",
+    "uploads/placements/sp-report/*",
+    "uploads/placements/sb-report/*",
+    "uploads/placements/sd-report/*"
+  ]
+}
