@@ -2,7 +2,7 @@ const cron = require('node-cron');
 const { cronUpdateToken } = require('../../api-server/controllers/configAds.controller');
 const { write_logs } = require("../../winston/updateToken/logger");
 
-cron.schedule("*/20 * * * *", async () => {
+cron.schedule("17 10 * * *", async () => {
   try {
     write_logs({
       message: `cronUpdateToken`,
